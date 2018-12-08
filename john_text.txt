@@ -3,3 +3,5 @@ changes done by amber in johns file
 
 Adding some text for john
 
+New file added in Johns file to test Git Fetch & Git Merge
+
