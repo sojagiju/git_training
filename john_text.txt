@@ -5,4 +5,6 @@ Adding some text for john
 
 Amber adding new changes again not knowing john has edited the file
 
+New file added in Johns file to test Git Fetch & Git Merge
+s
 
